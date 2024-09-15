@@ -66,7 +66,7 @@ Demonstração
 
 Veja abaixo alguns exemplos de gráficos e indicadores do Projeto:
 <public/img/readme/mapa.gif>
-<img public="/img/readme/mapa.gif">
+<public src="/img/readme/mapa.gif">
 Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
