@@ -65,6 +65,7 @@ Rotas da API
 Demonstração
 
 Veja abaixo alguns exemplos de gráficos e indicadores do Projeto:
+<public/img/readme/mapa.gif>
 
 Licença
 
