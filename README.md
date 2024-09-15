@@ -73,7 +73,7 @@ Após iniciar o servidor, a aplicação estará disponível em `http://localhost
 
 Veja abaixo alguns exemplos de gráficos e indicadores do Projeto:
 
-<img src="./public/img/readme/container.gif" alt="container" width="900"/>
+
 <img src="./public/img/readme/mapa.gif" alt="Mapa" width="900"/>
 <img src="./public/img/readme/Graficos.gif" alt="Graficos" width="900"/>
 
